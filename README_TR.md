@@ -7,16 +7,17 @@
 
 <img src="banner.png" width="1200">
 
-## İz bırakmayan güvenli mesajlaşma
+## Sadece RAM kullanan güvenli mesajlaşma
+
 <!-- AÇIKLAMA -->
 ## Açıklama:
 
-Amnezichat, hiçbir kayıt tutulmamasını ve tüm mesaj verilerinin yalnızca sunucunun RAM'inde saklanmasını sağlayarak son derece güvenli ve gizlilik odaklı bir mesajlaşma deneyimi sunar. Bu yaklaşım, kullanıcı gizliliğini önemli ölçüde artırır çünkü RAM depolaması doğası gereği geçicidir; sunucu kapatıldığında veya yeniden başlatıldığında veri otomatik olarak silinir ve uçtan uca şifrelenmiş geçmiş iletişimlerin hiçbir izi kalmaz.
+Yalnızca RAM kullanan güvenli mesajlaşma uygulamaları, veri kalıcılığını ve maruz kalma riskini en aza indirerek gelişmiş gizlilik ve güvenlik sağlar. Yalnızca RAM kullanan bir sistem, tüm kullanıcı verilerinin — mesajlar ve şifreleme anahtarları dahil — HDD'ye kaydedilmek yerine RAM üzerinde tutulmasını sağlar. Bu da sistem kapatıldıktan veya güvenliği ihlal edildikten sonra verilerin geri alınma riskini önemli ölçüde azaltır.
 
 <!-- ÖZELLİKLER -->
 ## Özellikler:
 
-- İstemci tarafında kuantum dirençli uçtan uca mesaj şifreleme
+- Kuantum dirençli uçtan uca mesaj şifreleme
 
 - Bire bir sohbetler için forward ve backward secrecy
 
@@ -108,8 +109,6 @@ Amnezichat, hiçbir kayıt tutulmamasını ve tüm mesaj verilerinin yalnızca s
 ## Lisans
 
 GPLv3 Lisansı altında dağıtılmaktadır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
-
-## <a href="CONTRIBUTORS_TR.md">Destekçiler</a>
 
 ## Bu projenin geliştirilmesini desteklemek için bağış yapın!
 

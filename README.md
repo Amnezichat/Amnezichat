@@ -7,16 +7,16 @@
 
 <img src="banner.png" width="1200">
 
-## Anti-forensic and secure messenger
+## RAM-only secure messenger
 <!-- DESCRIPTION -->
 ## Description:
 
-Amnezichat offers a highly secure and privacy-focused messaging experience by ensuring that no logs are retained and all message data is stored exclusively in the server's RAM. This approach significantly enhances user privacy because RAM storage is inherently volatile data is automatically erased when the server is powered down or restarted, leaving no trace of already end-to-end encrypted past communications.
+RAM-only secure messengers offer enhanced privacy and security by minimizing data persistence and exposure. A RAM-only system ensures that all user data, including messages and encryption keys, are stored temporarily in volatile memory (RAM) rather than on a hard drive, which significantly reduces the risk of data retrieval after shutdown or compromise.
 
 <!-- FEATURES -->
 ## Features:
 
-- Client-side quantum-resistant E2E message encryption
+- Quantum-resistant E2E message encryption
 
 - Forward and backward secrecy for one-to-one chats
 
@@ -108,8 +108,6 @@ You can access **Amnezichat** source code from multiple mirror repositories:
 ## License
 
 Distributed under the GPLv3 License. See `LICENSE` for more information.
-
-## <a href="CONTRIBUTORS.md">Contributors</a>
 
 ## Donate to support development of this project!
 
